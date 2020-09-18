@@ -18,5 +18,5 @@ if($email && $password) {
 
 $_SESSION['flash'] = 'Email e/ou senha incorreto(s)!';
 
-header("Location: ".$base);
+header("Location: ".$base."/login.php");
 exit;
