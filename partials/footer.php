@@ -1,7 +1,7 @@
 </section>
 <div class="modal">
         <div class="modal-inner">
-            <a rel="modal:close">&times;</a>
+            <a data-modal-open>&times;</a>
             <div class="modal-content"></div>
         </div>
     </div>
